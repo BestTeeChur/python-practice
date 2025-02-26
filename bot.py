@@ -1,2 +1,1 @@
-print("Hello World")
-Pj 
+print(Hello World")
